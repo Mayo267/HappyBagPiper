@@ -142,7 +142,7 @@ body{
 
 /* about thom */
 .about-thom-container{
-    padding: 20px;
+    padding: 50px;
 }
 
 .about-thom-title{
@@ -159,7 +159,8 @@ body{
 
 .about-thom-text{
     line-height: 1.5;
-    padding-left: 100px;
+    font-size: 1rem;
+    /* padding-left: 100px; */
 
 }
 
@@ -204,9 +205,14 @@ body{
         text-align: center;
     }
 
-    .call-button{
-        
-    }
+   .small-text{
+       font-size: 1.5rem;
+   }
+
+   .feature-title{
+       font-size: 2.2rem;
+       font-weight: bold;
+   }
 
     .big-heading{
         text-align: center;
@@ -220,6 +226,14 @@ body{
 
     .welcome-section{
         text-align: center;
+    }
+
+    .about-thom-title{
+        font-size: 2.4rem;
+    }
+
+    .about-thom-text{
+        font-size: 1.5rem;
     }
 
 
