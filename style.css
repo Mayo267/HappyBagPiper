@@ -123,29 +123,22 @@ body{
     padding-bottom: 20px;
 }
 
-.about-piper-list{
-
+.line-break{
+    background-color: white;
 }
 
+.about-piper-text{
+    color: #BC8811;
+    font-size: 1.5rem;
+    text-align: center;
+}
 
-        /* dropdown information custom */
-            .card-custom{
-                background: #333F71;
-                color:#BC8811;
-                margin: auto;
-                font-family: 'Oldenburg', cursive;
-                
-            }
+.carousel-item{
+    font-family: 'Oldenburg', cursive;
+    padding: 90px;
+    background-color: #2B355F;
+}
 
-            .button-custom{
-                color: #BC8811;
-                font-size: 1.5rem;
-                
-            }
-
-            .button-custom:hover{
-                color: #BC8811;
-            }
 
 /* about thom */
 .about-thom-container{
@@ -194,6 +187,7 @@ body{
 
 
 @media (max-width: 1200px){
+    
     .navbar-nav{
         margin-left: auto;
     }
