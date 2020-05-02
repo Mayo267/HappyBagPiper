@@ -22,9 +22,9 @@ body{
 }
 
 .custom-brand{
-    font-size: 3rem;
+    font-size: 3.2rem;
     font-family: 'Oldenburg', cursive;
-    
+    font-weight: bold;
 }
 
 
@@ -177,6 +177,14 @@ body{
 .youtube-text-container{
     transform: rotate(30deg);
     padding-top: 10%;
+    
+}
+
+.youtube-link-button{
+    font-weight: bold;
+    color:#FF0000;
+    font-size: 4rem;
+    font-family: 'Permanent Marker', cursive;
 }
 
 
